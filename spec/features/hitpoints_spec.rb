@@ -9,3 +9,4 @@ feature "see player2's hitpoints" do
     expect(page).to have_content('Cosmin: 60HP')
   end
 end
+
