@@ -1,4 +1,4 @@
-require_relative "web_helpers"
+
 
 # As Player 1,
 # So I can see how close I am to winning
